@@ -1,0 +1,95 @@
+[
+  {
+    "question": "output/crops\\crop_1_1.png",
+    "option_images": [
+      "output/crops\\crop_1_2.png",
+      "output/crops\\crop_1_3.png",
+      "output/crops\\crop_1_4.png",
+      "output/crops\\crop_1_5.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_2_6.png",
+    "option_images": [
+      "output/crops\\crop_2_7.png",
+      "output/crops\\crop_2_8.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_3_10.png",
+    "option_images": [
+      "output/crops\\crop_3_11.png",
+      "output/crops\\crop_3_12.png",
+      "output/crops\\crop_3_13.png",
+      "output/crops\\crop_3_9.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_4_14.png",
+    "option_images": [
+      "output/crops\\crop_4_15.png",
+      "output/crops\\crop_4_16.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_5_17.png",
+    "option_images": [
+      "output/crops\\crop_5_18.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_6_19.png",
+    "option_images": []
+  },
+  {
+    "question": "output/crops\\crop_7_20.png",
+    "option_images": [
+      "output/crops\\crop_7_21.png",
+      "output/crops\\crop_7_22.png",
+      "output/crops\\crop_7_23.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_8_24.png",
+    "option_images": [
+      "output/crops\\crop_8_25.png",
+      "output/crops\\crop_8_26.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_9_27.png",
+    "option_images": [
+      "output/crops\\crop_9_28.png",
+      "output/crops\\crop_9_29.png",
+      "output/crops\\crop_9_30.png",
+      "output/crops\\crop_9_31.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_10_32.png",
+    "option_images": [
+      "output/crops\\crop_10_33.png",
+      "output/crops\\crop_10_34.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_11_35.png",
+    "option_images": [
+      "output/crops\\crop_11_36.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_12_37.png",
+    "option_images": [
+      "output/crops\\crop_12_38.png"
+    ]
+  },
+  {
+    "question": "output/crops\\crop_13_39.png",
+    "option_images": []
+  },
+  {
+    "question": "output/crops\\crop_14_40.png",
+    "option_images": []
+  }
+]

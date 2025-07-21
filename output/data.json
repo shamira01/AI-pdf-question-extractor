@@ -1,0 +1,9 @@
+[
+  {
+    "question": "Question 1: What comes next?",
+    "images": "output/images/page1_image1.png",
+    "option_images": [
+      "output/images/page1_image2.png"
+    ]
+  }
+]
