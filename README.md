@@ -5,9 +5,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/shamira01/AI-pdf-question-extractor)
 ![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
 
-<p align="center">
+<p align ="center">
   <img src="assets/banner.png" alt="AI PDF Question Extractor Banner" width="100%" />
 </p>
+
 
 ---
 
