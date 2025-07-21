@@ -65,9 +65,7 @@ python generate_final_json.py
 python view_questions_and_options.py
 
 📌 Sample JSON Output
-json
-Copy
-Edit
+
 {
   "question": "output/crops/crop_1_1.png",
   "option_images": [
