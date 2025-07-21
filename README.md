@@ -82,7 +82,7 @@ Shamira Anjum
 Computer Science Engineer | Python Developer | AI Enthusiast
 🔗 GitHub: @shamira01
 
-###📄 License
+### 📄 License
 This project is intended for educational, academic, and demonstration purposes only.
 
 ### Acknowledgements
