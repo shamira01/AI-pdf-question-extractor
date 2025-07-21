@@ -37,15 +37,11 @@ pdf_question_extractor/
 ├── view_questions_and_options.py # CLI viewer for verification
 ├── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Install Required Dependencies
+### 1️ Install Required Dependencies
 
 ```bash
 pip install pymupdf pdfplumber pdf2image pillow opencv-python
@@ -53,31 +49,19 @@ pip install pymupdf pdfplumber pdf2image pillow opencv-python
 and add its /bin directory to your system PATH.
 
 2️ Convert PDF to Images
-bash
-Copy
-Edit
 python convert_pdf_to_images.py
+
 3️ Crop Questions and Options (Manual)
-bash
-Copy
-Edit
 python crop_images.py
+
 Use your mouse to draw bounding boxes around questions and options
-
 Press s to save the crop
-
 Press q to go to the next page
 
 4️ Generate Structured JSON Output
-bash
-Copy
-Edit
 python generate_final_json.py
 
 5️ View Questions and Options (Optional)
-bash
-Copy
-Edit
 python view_questions_and_options.py
 
 📌 Sample JSON Output
@@ -92,14 +76,16 @@ Edit
     "output/crops/crop_1_4.png"
   ]
 }
+```
+---
 
-👩‍💻 Author
+### 👩‍💻 Author
 Shamira Anjum
 Computer Science Engineer | Python Developer | AI Enthusiast
 🔗 GitHub: @shamira01
 
-📄 License
+###📄 License
 This project is intended for educational, academic, and demonstration purposes only.
 
-🙌 Acknowledgements
+### Acknowledgements
 Special thanks to the developers of open-source tools like PyMuPDF, OpenCV, and pdf2image that made this project possible.
