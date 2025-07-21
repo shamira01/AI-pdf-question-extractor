@@ -1,24 +1,50 @@
 # 🧠 AI PDF Question Extractor
 
-An AI-driven Python tool that extracts visual questions from educational PDFs. This system converts pages into images, allows manual cropping of question and option regions, and generates a structured JSON file. Ideal for building training datasets, MCQ interfaces, or automated test engines.
+![GitHub Repo stars](https://img.shields.io/github/stars/shamira01/AI-pdf-question-extractor?style=social)
+![GitHub forks](https://img.shields.io/github/forks/shamira01/AI-pdf-question-extractor?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/shamira01/AI-pdf-question-extractor)
+![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
+
+<p align="center">
+  <img src="assets/banner.png" alt="Project Banner" width="600"/>
+</p>
 
 ---
 
-## 📌 Key Features
+## 📖 Overview
+
+**AI PDF Question Extractor** is a Python-based tool designed to extract visual question-answer pairs from educational PDFs.  
+It converts each page into an image, allows users to manually crop questions and options using a simple UI, and outputs a clean, structured JSON format.
+
+This project is perfect for:
+
+- Creating datasets for AI/ML models
+- Automating MCQ generation for EdTech apps
+- Visual data labeling and content structuring
+
+---
+
+## 📌 Features
 
 - 📄 Convert PDF pages to high-resolution images  
-- ✂️ Manually crop questions and options using an OpenCV UI  
-- 🗃 Organize visual question-answer pairs in a clean JSON structure  
-- 🖼 Command-line viewer for quick visual verification  
-- 💼 Designed for academic, research, and educational tech use  
+- ✂️ Manually crop questions and options via OpenCV UI  
+- 🗃 Organize cropped image data into structured JSON  
+- 👀 Simple CLI tool to view and verify extracted content  
+- 🧪 Suitable for academic, EdTech, or research use  
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Language:** Python 3.x  
-- **Libraries:** PyMuPDF, pdfplumber, Pillow, OpenCV, pdf2image  
-- **Tools:** Poppler for Windows (for PDF rendering)  
+- **Language:** Python 3.x
+- **Libraries:** 
+  - PyMuPDF
+  - pdfplumber
+  - pdf2image
+  - OpenCV (cv2)
+  - Pillow (PIL)
+- **Tool:** Poppler (required for pdf2image)
+
 
 ---
 
