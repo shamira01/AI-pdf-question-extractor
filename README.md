@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/language-Python-blue?logo=python)
 
 <p align="center">
-  <img src="C:\Users\HP\Downloads\banner.png" alt="Project Banner" width="600"/>
+  <img src="assets/banner.png" alt="AI PDF Question Extractor Banner" width="100%" />
 </p>
 
 ---
